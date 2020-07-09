@@ -2,6 +2,10 @@
 
 Easy sleep function
 
+## Installing
+
+npm install esleep
+
 ## Usage
 
 ```javascript
