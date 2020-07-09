@@ -1,6 +1,6 @@
 {
   "name": "esleep",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Easy sleep function",
   "main": "index.js",
   "scripts": {
