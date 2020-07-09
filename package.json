@@ -1,0 +1,25 @@
+{
+  "name": "esleep",
+  "version": "1.0.0",
+  "description": "Easy sleep function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mustafa-colakoglu/esleep.git"
+  },
+  "keywords": [
+    "wait",
+    "await",
+    "sleep",
+    "thread"
+  ],
+  "author": "Mustafa Çolakoğlu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mustafa-colakoglu/esleep/issues"
+  },
+  "homepage": "https://github.com/mustafa-colakoglu/esleep#readme"
+}
